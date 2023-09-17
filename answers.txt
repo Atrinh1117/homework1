@@ -5,3 +5,7 @@ into a new commit. Rebasing ,on the other hand, will change existing branches so
 a linear history while merging has many branches spliting and coming back together.
 
 
+Question: What is a remote repository?
+
+Answer: A remote repository is a version of a repository that is stored on the Internet. These serve as the main repository where teams can send their
+changes after working on their local repository.
